@@ -79,11 +79,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\分治策略\分治策略\矩阵乘法.c" />
+    <ClCompile Include="eight_queen_.c" />
+    <ClCompile Include="find_max_arr.c" />
+    <ClCompile Include="find_max_arr_.c" />
     <ClCompile Include="heap.c" />
     <ClCompile Include="quicksort.c" />
-    <ClCompile Include="eight_queen.c" />
-    <ClCompile Include="find_max_arr.c" />
-    <ClCompile Include="max_arr_.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

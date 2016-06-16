@@ -24,13 +24,13 @@
     <ClCompile Include="..\..\分治策略\分治策略\矩阵乘法.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="eight_queen.c">
+    <ClCompile Include="eight_queen_.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_max_arr_.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="find_max_arr.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="max_arr_.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
