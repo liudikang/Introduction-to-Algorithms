@@ -84,6 +84,7 @@
     <ClCompile Include="heap.c" />
     <ClCompile Include="quicksort.c" />
     <ClCompile Include="八皇后.c" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
